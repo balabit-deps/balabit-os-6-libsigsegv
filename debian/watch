@@ -1,0 +1,2 @@
+version=2
+opts="pgpsigurlmangle=s/$/.sig/" http://ftp.gnu.org/gnu/libsigsegv/ libsigsegv-(.*)\.tar\.gz
